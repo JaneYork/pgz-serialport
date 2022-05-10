@@ -1,5 +1,6 @@
 # pgz-serialport
-PGZ串口转发、串口代理，web网页对接硬件串口RFID、智能秤
+PGZ串口转发、串口代理，web网页对接硬件串口RFID、智能秤。
+支持多端口、多客户端
 
 ## 前情提示
 Windows10
@@ -18,6 +19,9 @@ http://www.websocket-test.com/
 ## 更新日志
 - [x] 支持WSS
 - [ ] 重构页面样式，升级样式版本
+
+## 无图言甚
+
 
 ## 常见问题
 端口占用或者串口在使用中
