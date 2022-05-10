@@ -7,7 +7,7 @@ Windows10
 
 ## 如何使用
 - Windows下安装EXE
-「PGZ串口转发 Setup 0.1.0.exe」https://www.aliyundrive.com/s/cpxkpd393te 点击链接保存，或者复制本段内容，打开「阿里云盘」APP ，无需下载极速在线查看，视频原画倍速播放。
+https://janeyork.lanzoub.com/ifPhW04l3jfi
 
 - web业务代码中（HTML、VUE、等）写websocket客户端代码
 配置地址ws://127.0.0.1:9529
