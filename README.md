@@ -6,7 +6,7 @@ PGZ串口转发、串口代理，web网页对接硬件串口RFID、智能秤。
 Windows10
 
 ## 如何使用
-- Windows下安装EXE
+- Windows下安装EXE。双击一键安装，安装后会自动打开
 https://janeyork.lanzoub.com/ifPhW04l3jfi
 
 - web业务代码中（HTML、VUE、等）写websocket客户端代码
